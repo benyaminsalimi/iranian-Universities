@@ -1,9 +1,11 @@
 # iranian-Universities
-analytic iranian Universities [secure headers](https://github.com/benyaminsalimi/Secure-Headers#why-secure-header) configuration
+analytic iranian Universities [secure headers](https://github.com/benyaminsalimi/Secure-Headers#why-secure-header) and ssl (TODO) configuration 
 
-- this report genrated by [my report script](https://github.com/benyaminsalimi/Secure-Headers#report-script)
+- Secure Header report genrated by [my report script](https://github.com/benyaminsalimi/Secure-Headers#report-script)
 
-- 
+- ***Pull requests are always welcome :)***
+- other analytic are always welcome too
+
 
 ## Files
 - [iranian_universities_Secure_header_report_2018-12-25.json](https://github.com/benyaminsalimi/iranian-Universities/blob/master/iranian_universities_Secure_header_report_2018-12-25.json): secure headers report of of all iranian universities
